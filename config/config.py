@@ -15,9 +15,9 @@ DB_NAME = "shizuDB"
 MONGO_URL = getenv("MONGO_URL", None)
 OWNER_ID = int(getenv("OWNER_ID", "7009601543"))
 BOT_ID = int(getenv("BOT_ID", "8113054986"))
-SUPPORT_GRP = "PBX_CHAT"
-UPDATE_CHNL = "HEROKUBIN_01"
-OWNER_USERNAME = "ll_BAD_MUNDA_ll"
+SUPPORT_GRP = "SAIM_WORLD"
+UPDATE_CHNL = "DADDY_SAIM"
+OWNER_USERNAME = "MY_SAIM"
 TIME_ZONE = "Asia/Kolkata"
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002056907061"))
 # --------------------------------------------------------------
