@@ -22,8 +22,8 @@ START = """**
 ┗━━━━━•❃°•°❀•━━━━━┛
 
 ╔═══════════════╗
- ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Badhacker98/ShizuChat_Bot/fork)
- ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll)
+ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ɱყ ƒαƭɦεɾ](https://t.me/DADDY_SAIM)
+ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ѕαιм ραρα](https://t.me/MY_SAIM)
 ╚═══════════════╝
 **"""
 
